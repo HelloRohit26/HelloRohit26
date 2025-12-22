@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello,%20I'm%20Rohit%20Maurya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20SEngineer%20%7C%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello,%20I'm%20Rohit%20Maurya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&descAlign=50)
 
 ### 🚀 Turning Data into Intelligence & Agents into Action
 
